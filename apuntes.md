@@ -26,6 +26,10 @@
 
 ### Video 002. Sacando Provecho del Curso y sus Contenidos
 + **Contenido**: Explicación de la dinámica del curso.
+1. Commit Video 002:
+    + $ git add .
+    + $ git commit -m "Video 002. Sacando Provecho del Curso y sus Contenidos"
+    + $ git push -u origin main
 
 
 
